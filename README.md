@@ -2,5 +2,5 @@
 # Titol
 ## Subtitol
 .# Text
-*Llista amb punt negre
--Llista amb punt
+* Llista amb punt negre
+- Llista amb punt
