@@ -1,7 +1,7 @@
 # DAW-IPOP
 # Titol
 ## Subtitol
-.# Text
+Text normal
 * Llista amb punt negre
-- Llista amb punt
+* Llista amb punt negre
 * [Text](link)
