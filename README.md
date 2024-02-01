@@ -1,5 +1,4 @@
 # DAW-IPOP
-# Titol
 ## Subtitol
 Text normal
 * Llista amb punt negre
