@@ -1,60 +1,22 @@
 # DAW-IPOP
 ## Table of Contents
 1. [General Info](#general-info)
-2. Curriculum Vita
+2. [Curriculum Vital](#curriculum)
 3. [Fitxes IPOP](#fitxes-IPOP)
-4. [Installation](#installation)
-5. [Collaboration](#collaboration)
-6. [FAQs](#faqs)
 
+
+## General Info
+***
+Hola, em dic Pau Muñoz Serra i estic cursant primer any de Desenvolupament d'Aplicacions Web (DAW) a l'institut Sa Palomera, Blanes. M'encanta tot el que té a veure amb tecnologia, sobretot si es tracta de programació o noves tecnologies. Quan no estic a classe, em pots trobar programant projectes per diversió i per millorar. Estic molt emocionat per aquest any acadèmic i espero poder contribuir positivament a la nostra comunitat d'aprenentatge. Si teniu qualsevol pregunta o idea, no dubteu a dir-me-la. Gràcies per escoltar-me!
+
+## Curriculum
+***
+A continuació adjunto el meu currículum amb tota la informació necessària per conèixer el meu passat laboral i en quines feines he contribuït, a més d'informació addicional que serà d'ajuda per conèixer més.* 
+* [Curriculum Vital]()
 
 ## Fitxes IPOP
 ***
-* [Fitxa 1 (12/15/2023).](Fitxes-IPOP/IPOP-Fitxa1b-Sa Palomera)
-* [Fitxa 2 (01/02/2024).](https://github.com/XinLu85/DAW-IPOP/blob/main/Fitxes-IPOP/IPOP-Fitxa1b-Sa%20Palomera.pdf)
+* [Fitxa 1 (12/15/2023).]([Fitxes-IPOP/IPOP-Fitxa1b-Sa Palomera](https://github.com/XinLu85/DAW-IPOP/blob/main/Fitxes-IPOP/IPOP-Fitxa1b-Sa%20Palomera.pdf))
+* [Fitxa 2 (01/02/2024).]()
 ***
 
-
-### General Info
-***
-Write down the general informations of your project. It is worth to always put a project status in the Readme file. This is where you can add it. 
-### Screenshot
-![Image text](https://www.united-internet.de/fileadmin/user_upload/Brands/Downloads/Logo_IONOS_by.jpg)
-## Technologies
-***
-A list of technologies used within the project:
-* [Technologie name](https://example.com): Version 12.3 
-* [Technologie name](https://example.com): Version 2.34
-* [Library name](https://example.com): Version 1234
-## Installation
-***
-A little intro about the installation. 
-```
-$ git clone https://example.com
-$ cd ../path/to/the/file
-$ npm install
-$ npm start
-```
-Side information: To use the application in a special environment use ```lorem ipsum``` to start
-## Collaboration
-***
-Give instructions on how to collaborate with your project.
-> Maybe you want to write a quote in this part. 
-> It should go over several rows?
-> This is how you do it.
-## FAQs
-***
-A list of frequently asked questions
-1. **This is a question in bold**
-Answer of the first question with _italic words_. 
-2. __Second question in bold__ 
-To answer this question we use an unordered list:
-* First point
-* Second Point
-* Third point
-3. **Third question in bold**
-Answer of the third question with *italic words*.
-4. **Fourth question in bold**
-| Headline 1 in the tablehead | Headline 2 in the tablehead | Headline 3 in the tablehead |
-|:--------------|:-------------:|--------------:|
-| text-align left | text-align center | text-align right |
