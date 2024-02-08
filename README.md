@@ -16,7 +16,7 @@ A continuació adjunto el meu currículum amb tota la informació necessària pe
 
 ## Fitxes IPOP
 ***
-* [Fitxa 1 (12/15/2023).]([Fitxes-IPOP/IPOP-Fitxa1b-Sa Palomera](https://github.com/XinLu85/DAW-IPOP/blob/main/Fitxes-IPOP/IPOP-Fitxa1b-Sa%20Palomera.pdf))
-* [Fitxa 2 (01/02/2024).]()
+* [Fitxa 1 (12/15/2023).](https://github.com/XinLu85/DAW-IPOP/blob/main/Fitxes-IPOP/IPOP-Fitxa1b-Sa%20Palomera.pdf)
+* [Fitxa 2 (01/02/2024).](https://github.com/XinLu85/DAW-IPOP/blob/main/Fitxes-IPOP/IPOP-Fitxa2b-Sa%20Palomera.pdf)
 ***
 
