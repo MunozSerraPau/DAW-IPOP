@@ -10,8 +10,8 @@
 
 ## Fitxes IPOP
 ***
-* [Fitxa 1 (12/15/2023).](Fitxes-IPOP/IPOP-Fitxa1b-Sa Palomera.pdf)
-* [Fitxa 2 (01/02/2024).]()
+* [Fitxa 1 (12/15/2023).](Fitxes-IPOP/IPOP-Fitxa1b-Sa Palomera)
+* [Fitxa 2 (01/02/2024).](https://github.com/XinLu85/DAW-IPOP/blob/main/Fitxes-IPOP/IPOP-Fitxa1b-Sa%20Palomera.pdf)
 ***
 
 
