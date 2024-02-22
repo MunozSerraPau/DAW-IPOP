@@ -2,9 +2,9 @@
 
 ## Información de Contacto
 
-- **Correo Electrónico:** tu@email.com
-- **LinkedIn:** [Tu Perfil de LinkedIn](https://www.linkedin.com/in/tu-perfil)
-- **Sitio Web/Portafolio:** [Tu Sitio Web/Portafolio](https://www.tusitio.com)
+- **Correo Electrónico:** munozserrap@gmail.com
+- **LinkedIn:** [Tu Perfil de LinkedIn](https://www.linkedin.com/in/pau-muñoz-serra-1383a6194/)
+- **Sitio Web/Portafolio:** [Tu Sitio Web/Portafolio](https://munozserrap.wixsite.com/pmsporfoli)
 
 ## Resumen
 
