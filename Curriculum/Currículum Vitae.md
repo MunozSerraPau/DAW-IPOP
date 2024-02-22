@@ -6,49 +6,88 @@
 - **LinkedIn:** [Mi Perfil de LinkedIn](https://www.linkedin.com/in/pau-muñoz-serra-1383a6194/)
 - **Sitio Web/Portafolio:** [Portafolio](https://munozserrap.wixsite.com/pmsporfoli)
 
+
 ## Resumen
 
 Soy estudiante de DAW con conocimientos de HTML, CSS, Java, XML y MySQL. Me apasiona la programación web y busco una oportunidad para aprender y mejorar mis habilidades. Tengo capacidad para trabajar en equipo, resolver problemas y adaptarme en diferentes entornos.
 
+
 ## Experiencia Laboral
 
-### [Nombre de la Empresa] - [Ubicación]
-*Puesto* - *Fecha de Inicio - Fecha de Fin (o Actual)*
+### Agente cívico, Ayuntamiento de Tordera - Tordera, Catalunya
+*01.07.2022 - 31.07.2022*
 
-- Descripción de responsabilidades y logros.
+- Campaña de reciclaje para concienciar en la población y supervisar que la gente recicle.
+- Informar en la población con animales de compañía sobre todo el que tiene que tener en vigor temas vacunas e identificador del animal.
 
-### [Otra Empresa] - [Ubicación]
-*Otro Puesto* - *Fecha de Inicio - Fecha de Fin (o Actual)*
+### Camarero Bar Voramar - Blanes, Catalunya
+*01.07.2023 - 06.09.2023*
 
-- Descripción de responsabilidades y logros.
+- Camarero tanto de barra como de Sala.
+- Servicio a mesa
+
+### Entrenador de Hockey - Tordera, Catalunya
+*01.07.2022 - 31.07.2022*
+
+- Planificar entrenos por niños de 3 a 12 años.
+- Orientarlos durante sus años al Club.
+
+### Practicas Grupo Actialia / VK Group Outsourcing - Palafolls, Catalunya
+*10.2022 - 02.2023*
+
+- Prácticas realizadas durante SMX desde el Centro Sa Palomera.
+- Crear/Modificar páginas Web.
+- Crear perfiles de redes sociales para las empresas.
+- Mantenimiento de páginas Web y mejorar la posición al buscarla.
+
+### Practicas Portugal - Beja, Portugal
+*05.2022 - 06.2023*
+
+- Realizadas con una Beca de Erasmus+ desde el centro Sa Palomera
+- Crear página Web con WIX por una residencia de estudiantes
+
 
 ## Educación
 
-### [Nombre de la Universidad] - [Ubicación]
-*Grado Académico* - *Año de Graduación*
+### DAW (Desarrollo de Aplicaciones Web) - Sa Palomera, Blanes
+*Ciclo Superior* - *2023 - Actual*
 
-- Detalles adicionales (cursos relevantes, tesis, etc.).
+### SMX (Sistemas Microinformáticos y Redes) - Sa Palomera, Blanes
+*Ciclo Medio* - *2021 - 2023*
+
+- Beca Erasmus para hacer prácticas durante 1 mes en Beja, Portugal
+
+### ESO (Educación Secundaria Obligatoria) - Instituto Tordària, Tordera
+*2016 - 2020*
+
 
 ## Habilidades Técnicas
 
 - Lista de habilidades técnicas clave, por ejemplo:
-  - Lenguajes de Programación: [Lista de Lenguajes]
-  - Herramientas y Tecnologías: [Lista de Herramientas y Tecnologías]
-  - Otros: [Otras Habilidades]
+  - Virtualización de Máquinas Virtuales (Linux, Linux Server, Windows, Windows Server, macOS Catalina, Fedora...)
+  - Microsoft Office ( Word, Excel, PowerPoint, Access, Outlook)
+  - HTML & CSS
+  - Java (Programación estructurada, Orientado a Objetos, Diseño Modular...)
+  - Consultara y modificaciones a base de Datos con MySQL.
+  - Úso de lenguaje de Marcas (XML, DTD, JSON...)
+  - Conceptos básicos de C#
+
 
 ## Proyectos Destacados
 
-### [Nombre del Proyecto]
-*Descripción breve*
+### [WEB - EMPRESA](https://munozserrap.wixsite.com/pamuse-empresa)
+*Página Web que resume EiE de 1.º año de SMX, con resumen semanal de la clase y con apuntes de toda la teoría.
+Información extra con actividades y videos resumidos sobre el temario.
+Archivo con la creación de una empresa como trabajo final.
+Creada con Wix.*
 
-- Tecnologías utilizadas
-- Logros y resultados
+### [VIDEOJUEGO - Juego en 2D con Unity](https://github.com/XinLu85/DAW-IPOP/tree/main/Curriculum/VideoJoc)
+*Creación de un juego en 2D al estilo Mario Bros con un boss final.
+Creado con Unity (C#) y con animaciones a los personajes*
 
-### [Otro Proyecto]
-*Descripción breve*
-
-- Tecnologías utilizadas
-- Logros y resultados
+### [WEB - RESIDENCIA De ESTUDIANTES](https://munozserrap.wixsite.com/residancia-beja)
+*Página Web creada para una residencia de estudiantes en la cual se pueden poner en contacto para poder reservar habitaciones durante su aposento de Erasmus.
+La web es traducir automáticamente al inglés, Castilla y Portugués.*
 
 ## Certificaciones
 
@@ -56,7 +95,9 @@ Soy estudiante de DAW con conocimientos de HTML, CSS, Java, XML y MySQL. Me apas
 
 ## Idiomas
 
-- [Idioma] - *Nivel de Competencia*
+- Catalán - *Nivel Nativo*
+- Castellano - *Nivel Nativo*
+- Ingles - *Nivel Básico*
 
 ## Contribuciones y Participación en la Comunidad
 
