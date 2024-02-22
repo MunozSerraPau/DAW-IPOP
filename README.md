@@ -6,17 +6,18 @@
 
 ***
 ## General Info
-Hola, em dic Pau Muñoz Serra i estic cursant primer any de Desenvolupament d'Aplicacions Web (DAW) a l'institut Sa Palomera, Blanes. M'encanta tot el que té a veure amb tecnologia, sobretot si es tracta de programació o noves tecnologies. Quan no estic a classe, em pots trobar programant projectes per diversió i per millorar. Estic molt emocionat per aquest any acadèmic i espero poder contribuir positivament a la nostra comunitat d'aprenentatge. Si teniu qualsevol pregunta o idea, no dubteu a dir-me-la. Gràcies per escoltar-me!
+Hola, em dic Pau Muñoz Serra i soc estudiant de DAW amb coneixements d'HTML, CSS, Java, XML, DTD i MySQL. M'apassiona la programació web i busco una oportunitat per aprendre i millorar les meves habilitats. Tinc capacitat per treballar en equip, resoldre problemes i adaptar-me a diferents entorns.
 
 ***
 ## Curriculum
 A continuació adjunto el meu currículum amb tota la informació necessària per conèixer el meu passat laboral i en quines feines he contribuït, a més d'informació addicional que serà d'ajuda per conèixer més.* 
-* [Curriculum Vital]()
+* [Curriculum Vitae Catala](https://github.com/XinLu85/DAW-IPOP/blob/main/Curriculum/CV-PauMu%C3%B1oz-Catala.pdf)
+* [Curriculum Vitae Castella](https://github.com/XinLu85/DAW-IPOP/blob/main/Curriculum/CV-PauMu%C3%B1oz-Castellano.pdf)
 
 ***
 ## Fitxes IPOP
-* [Fitxa 1 (12/15/2023).](https://github.com/XinLu85/DAW-IPOP/blob/main/Fitxes-IPOP/IPOP-Fitxa1b-Sa%20Palomera.pdf)
-* [Fitxa 2 (01/02/2024).](https://github.com/XinLu85/DAW-IPOP/blob/main/Fitxes-IPOP/IPOP-Fitxa2b-Sa%20Palomera.pdf)
-
+* [Fitxa 1 (12/15/2023)](https://github.com/XinLu85/DAW-IPOP/blob/main/Fitxes-IPOP/IPOP-Fitxa1b-Sa%20Palomera.pdf)
+* [Fitxa 2 (01/02/2024)](https://github.com/XinLu85/DAW-IPOP/blob/main/Fitxes-IPOP/IPOP-Fitxa2b-Sa%20Palomera.pdf)
+* [Fitxa 3 (DD/MM/YYYY)]()
 ***
 
