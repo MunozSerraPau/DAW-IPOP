@@ -3,12 +3,12 @@
 ## Información de Contacto
 
 - **Correo Electrónico:** munozserrap@gmail.com
-- **LinkedIn:** [Tu Perfil de LinkedIn](https://www.linkedin.com/in/pau-muñoz-serra-1383a6194/)
-- **Sitio Web/Portafolio:** [Tu Sitio Web/Portafolio](https://munozserrap.wixsite.com/pmsporfoli)
+- **LinkedIn:** [Mi Perfil de LinkedIn](https://www.linkedin.com/in/pau-muñoz-serra-1383a6194/)
+- **Sitio Web/Portafolio:** [Portafolio](https://munozserrap.wixsite.com/pmsporfoli)
 
 ## Resumen
 
-Soy [Tu Nombre], un(a) [Tu Profesión] con experiencia en [Áreas de Especialización]. Mi objetivo es [Tu Objetivo Profesional]. Me apasiona [Intereses y Pasiones Relacionados con tu Trabajo].
+Soy estudiante de DAW con conocimientos de HTML, CSS, Java, XML y MySQL. Me apasiona la programación web y busco una oportunidad para aprender y mejorar mis habilidades. Tengo capacidad para trabajar en equipo, resolver problemas y adaptarme en diferentes entornos.
 
 ## Experiencia Laboral
 
