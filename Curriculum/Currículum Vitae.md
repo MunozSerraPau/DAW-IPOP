@@ -1,19 +1,22 @@
-# [Pau Muñoz Serra]
-![Foto Presentación](https://media.licdn.com/dms/image/C4D03AQEHPIY7PjkZeg/profile-displayphoto-shrink_400_400/0/1653841055965?e=2147483647&v=beta&t=W1uP8pR96umCJyVHDfFFOQBZam7CuDBymOSdKpvr8OI)
+# Pau Muñoz Serra
+<p align="center">
+  <img src="https://media.licdn.com/dms/image/C4D03AQEHPIY7PjkZeg/profile-displayphoto-shrink_400_400/0/1653841055965?e=2147483647&v=beta&t=W1uP8pR96umCJyVHDfFFOQBZam7CuDBymOSdKpvr8OI" alt="Foto Presentación">
+</p>
 
-## Información de Contacto
+
+## 📞 Información de Contacto
 
 - **Correo Electrónico:** munozserrap@gmail.com
 - **LinkedIn:** [Mi Perfil de LinkedIn](https://www.linkedin.com/in/pau-muñoz-serra-1383a6194/)
 - **Sitio Web/Portafolio:** [Portafolio](https://munozserrap.wixsite.com/pmsporfoli)
 
 
-## Resumen
+## 📖 Resumen
 
 Soy estudiante de DAW con conocimientos de HTML, CSS, Java, XML y MySQL. Me apasiona la programación web y busco una oportunidad para aprender y mejorar mis habilidades. Tengo capacidad para trabajar en equipo, resolver problemas y adaptarme en diferentes entornos.
 
 
-## Experiencia Laboral
+## 👷 Experiencia Laboral
 
 ### Agente cívico, Ayuntamiento de Tordera - Tordera, Catalunya
 *01.07.2022 - 31.07.2022*
@@ -48,7 +51,7 @@ Soy estudiante de DAW con conocimientos de HTML, CSS, Java, XML y MySQL. Me apas
 - Crear página Web con WIX por una residencia de estudiantes
 
 
-## Educación
+## 📚 Educación
 
 ### DAW (Desarrollo de Aplicaciones Web) - Sa Palomera, Blanes
 *Ciclo Superior* - *2023 - Actual*
@@ -62,7 +65,7 @@ Soy estudiante de DAW con conocimientos de HTML, CSS, Java, XML y MySQL. Me apas
 *2016 - 2020*
 
 
-## Competencias Personales
+## 🤔 Competencias Personales
 
 - Lista de competencias personales:
   - Trabajo en equipo
@@ -73,7 +76,7 @@ Soy estudiante de DAW con conocimientos de HTML, CSS, Java, XML y MySQL. Me apas
   - Autonomía
 
 
-## Habilidades Técnicas
+## 🖥️ Habilidades Técnicas
 
 - Lista de habilidades técnicas clave:
   - Virtualización de Máquinas Virtuales (Linux, Linux Server, Windows, Windows Server, macOS Catalina, Fedora...)
@@ -85,7 +88,7 @@ Soy estudiante de DAW con conocimientos de HTML, CSS, Java, XML y MySQL. Me apas
   - Conceptos básicos de C#
 
 
-## Proyectos Destacados
+## 📂 Proyectos Destacados
 
 ### [WEB - EMPRESA](https://munozserrap.wixsite.com/pamuse-empresa)
 *Página Web que resume EiE de 1.º año de SMX, con resumen semanal de la clase y con apuntes de toda la teoría.
@@ -102,7 +105,7 @@ Creado con Unity (C#) y con animaciones a los personajes*
 La web es traducir automáticamente al inglés, Castilla y Portugués.*
 
 
-## Certificaciones
+## 📑 Certificaciones
 
 - [Administración Básica de Sistemas Linux] - *Sa Palomera* - *Blanes, junio del 2022*
 - [Administración Básica de Sistemas Windows 10] - *Sa Palomera* - *Blanes, junio del 2022*
@@ -116,14 +119,14 @@ La web es traducir automáticamente al inglés, Castilla y Portugués.*
 - [Introducción a la reparación de móviles] - *Sa Palomera* - *Blanes, junio del 2022*
 
 
-## Idiomas
+## 🌐 Idiomas
 
 - Catalán - *Nivel Nativo*
 - Castellano - *Nivel Nativo*
 - Ingles - *Nivel Básico*
 
 
-## Más Información
+## ℹ️ Más Información
 
 - Carné A1
 - Carné B (en proceso)
