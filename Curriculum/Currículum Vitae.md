@@ -1,5 +1,5 @@
 # [Pau Muñoz Serra]
-![Foto Presentación](https://drive.google.com/file/d/17aSMWYXU7sK8tV-6XIVDcYv6ig8ZgHvP/view?usp=drive_link)
+![Foto Presentación](https://media.licdn.com/dms/image/C4D03AQEHPIY7PjkZeg/profile-displayphoto-shrink_400_400/0/1653841055965?e=2147483647&v=beta&t=W1uP8pR96umCJyVHDfFFOQBZam7CuDBymOSdKpvr8OI)
 
 ## Información de Contacto
 
