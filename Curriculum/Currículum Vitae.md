@@ -61,9 +61,20 @@ Soy estudiante de DAW con conocimientos de HTML, CSS, Java, XML y MySQL. Me apas
 *2016 - 2020*
 
 
+## Competencias Personales
+
+- Lista de competencias personales:
+  - Trabajo en equipo
+  - Trabajo bajo presión
+  - Autoexigente
+  - Empatía y paciencia
+  - Facilitado para adaptarse
+  - Autonomía
+
+
 ## Habilidades Técnicas
 
-- Lista de habilidades técnicas clave, por ejemplo:
+- Lista de habilidades técnicas clave:
   - Virtualización de Máquinas Virtuales (Linux, Linux Server, Windows, Windows Server, macOS Catalina, Fedora...)
   - Microsoft Office ( Word, Excel, PowerPoint, Access, Outlook)
   - HTML & CSS
@@ -89,9 +100,20 @@ Creado con Unity (C#) y con animaciones a los personajes*
 *Página Web creada para una residencia de estudiantes en la cual se pueden poner en contacto para poder reservar habitaciones durante su aposento de Erasmus.
 La web es traducir automáticamente al inglés, Castilla y Portugués.*
 
+
 ## Certificaciones
 
-- [Nombre de la Certificación] - *Institución* - *Fecha de Obtención*
+- [Administración Básica de Sistemas Linux] - *Sa Palomera* - *Blanes, junio del 2022*
+- [Administración Básica de Sistemas Windows 10] - *Sa Palomera* - *Blanes, junio del 2022*
+- [Introducción a HTML y CSS] - *Sa Palomera* - *Blanes, junio del 2022*
+- [Elaboración avanzada de Hoja de Cálculo con Excel 2019] - *Sa Palomera* - *Blanes, junio del 2022*
+- [Elaboración avanzada de Documentos de Texto con Word 2019] - *Sa Palomera* - *Blanes, junio del 2022*
+- [Elaboración avanzada de Base de Datos con Access 2019] - *Sa Palomera* - *Blanes, junio del 2022*
+- [Elaboración de presentaciones con PowerPoint 2019] - *Sa Palomera* - *Blanes, junio del 2022*
+- [Gestión de correo y agenda con OutLook 2019] - *Sa Palomera* - *Blanes, junio del 2022*
+- [Introducción a las redes (CCNA Routing and Switching) *Cisco*] - *Sa Palomera* - *Blanes, junio del 2022*
+- [Introducción a la reparación de móviles] - *Sa Palomera* - *Blanes, junio del 2022*
+
 
 ## Idiomas
 
@@ -99,17 +121,17 @@ La web es traducir automáticamente al inglés, Castilla y Portugués.*
 - Castellano - *Nivel Nativo*
 - Ingles - *Nivel Básico*
 
-## Contribuciones y Participación en la Comunidad
 
-- [Proyectos de Código Abierto]
-- [Eventos y Conferencias]
-- [Artículos y Blog Posts]
+## Más Información
 
-## Intereses Personales
-
-- [Hobbies y Pasatiempos]
+- Carné A1
+- Carné B (en proceso)
+- Vehículo propio (moto)
+- Aficiones e Intereses
+  - Practicar Hockey Patines
+  - Aprender Programación
 
 ---
 
-¡Gracias por visitar mi perfil! Estoy abierto(a) a oportunidades y colaboraciones. No dudes en contactarme para discutir cualquier proyecto o idea.
+¡Gracias por visitar mi perfil! Estoy abierto a nuevas oportunidades.
 
