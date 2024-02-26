@@ -1,5 +1,5 @@
 # Pau Muñoz Serra
-*04/10/2004, Tordera*
+*04/10/2004, Tordera / Castellano*
 <p align="center">
   <img src="https://media.licdn.com/dms/image/C4D03AQEHPIY7PjkZeg/profile-displayphoto-shrink_400_400/0/1653841055965?e=2147483647&v=beta&t=W1uP8pR96umCJyVHDfFFOQBZam7CuDBymOSdKpvr8OI" alt="Foto Presentación">
 </p>
