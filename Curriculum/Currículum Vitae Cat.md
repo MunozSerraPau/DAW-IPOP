@@ -135,9 +135,8 @@ La web es tradueix automàticament a l'anglès, castellà i portuguès.*
 - Aficions i Interessos
   - Practicar Hockey Patins
   - Aprendre Programació
- 
+
 ---
 
-- Gràcies per visitar el meu perfil! Estic obert a noves oportunitats.
+Gràcies per visitar el meu perfil! Estic obert a noves oportunitats.
 
-- 
