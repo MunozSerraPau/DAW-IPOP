@@ -5,6 +5,7 @@
 </p>
 
 
+
 ## 📞 Información de Contacto
 
 - **Correo Electrónico:** munozserrap@gmail.com
@@ -12,9 +13,11 @@
 - **Sitio Web/Portafolio:** [Portafolio](https://munozserrap.wixsite.com/pmsporfoli)
 
 
+
 ## 📖 Resum
 
 Sóc estudiant de DAW amb coneixements d'HTML, CSS, Java, XML i MySQL. M'apassiona la programació web i busco una oportunitat per aprendre i millorar les meves habilitats. Tinc la capacitat de treballar en equip, resoldre problemes i adaptar-me a diferents entorns.
+
 
 
 ## 👷 Experiència Laboral
@@ -52,6 +55,7 @@ Sóc estudiant de DAW amb coneixements d'HTML, CSS, Java, XML i MySQL. M'apassio
 - Crear pàgina web amb WIX per a una residència d'estudiants
 
 
+
 ## 📚 Educació
 
 ### DAW (Desenvolupament d'Aplicacions Web) - Sa Palomera, Blanes
@@ -66,6 +70,7 @@ Sóc estudiant de DAW amb coneixements d'HTML, CSS, Java, XML i MySQL. M'apassio
 *Educació Obligatòria (2016 - 2020)*
 
 
+
 ## 🤔 Competències Personals
 
 - Llista de competències personals:
@@ -75,6 +80,7 @@ Sóc estudiant de DAW amb coneixements d'HTML, CSS, Java, XML i MySQL. M'apassio
   - Empatia i paciència
   - Facilitat per adaptar-se
   - Autonomia
+
 
 
 ## 🖥️ Habilitats Tècniques
@@ -87,6 +93,7 @@ Sóc estudiant de DAW amb coneixements d'HTML, CSS, Java, XML i MySQL. M'apassio
   - Consulta i modificacions a base de dades amb MySQL.
   - Ús de llenguatge de marques (XML, DTD, JSON...)
   - Conceptes bàsics de C#
+
 
 
 ## 📂 Projectes Destacats
@@ -106,6 +113,7 @@ Creat amb Unity (C#) i amb animacions als personatges.*
 La web es tradueix automàticament a l'anglès, castellà i portuguès.*
 
 
+
 ## 📑 Certificacions
 
 - [Administració Bàsica de Sistemes Linux] - *Sa Palomera - Blanes, juny del 2022*
@@ -120,14 +128,16 @@ La web es tradueix automàticament a l'anglès, castellà i portuguès.*
 - [Introducció a la reparació de mòbils] *Sa Palomera - Blanes, juny del 2022*
 
 
-### 🌐 Idiomes
+
+## 🌐 Idiomes
 
 - Català - *Nivell Natiu*
 - Castellà - *Nivell Natiu*
 - Anglès - *Nivell Bàsic*
 
 
-### ℹ️ Més Informació
+
+## ℹ️ Més Informació
 
 - Carnet A1
 - Carnet B (en procés)
