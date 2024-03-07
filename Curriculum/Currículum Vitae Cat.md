@@ -16,7 +16,7 @@
 
 ## 📖 Resum
 
-Sóc estudiant de DAW amb coneixements d'HTML, CSS, Java, XML i MySQL. M'apassiona la programació web i busco una oportunitat per aprendre i millorar les meves habilitats. Tinc la capacitat de treballar en equip, resoldre problemes i adaptar-me a diferents entorns.
+Soc estudiant de DAW amb coneixements d'HTML, CSS, Java, XML, JSON i MySQL. M'apassiona la programació web i busco una oportunitat per aprendre i millorar les meves habilitats. Tinc la capacitat de treballar en equip, resoldre problemes i adaptar-me a diferents entorns.
 
 
 
@@ -26,7 +26,7 @@ Sóc estudiant de DAW amb coneixements d'HTML, CSS, Java, XML i MySQL. M'apassio
 *01.07.2022 - 31.07.2022*
 
 - Campanya de reciclatge per conscienciar la població i supervisar que la gent recicli.
-- Informar la població amb animals de companyia sobre tot el que ha de tenir en vigor com vacunes i identificador de l'animal.
+- Informar la població amb animals de companyia sobretot el que ha de tenir en vigor com vacunes i identificador de l'animal.
 
 ### Cambrer Bar Voramar - Blanes, Catalunya
 *01.07.2023 - 06.09.2023*
@@ -34,14 +34,14 @@ Sóc estudiant de DAW amb coneixements d'HTML, CSS, Java, XML i MySQL. M'apassio
 - Cambrer tant de barra com de Sala.
 - Servei a taula
 
-### Entrenador de Hockey - Tordera, Catalunya
+### Entrenador de Hoquei - Tordera, Catalunya
 *01.07.2022 - 31.07.2022*
 
 - Planificar entrenaments per a nens de 3 a 12 anys.
 - Orientar-los durant els seus anys al Club.
 
-### Pràctiques Grup Actialia / VK Group Outsourcing - Palafolls, Catalunya
-*10.2022 - 02.2023*
+### Pràctiques Grupo Actialia / VK Group Outsourcing - Palafolls, Catalunya
+*1.10.2022 - 28.02.2023*
 
 - Pràctiques realitzades durant SMX des del Centre Sa Palomera.
 - Crear/Modificar pàgines web.
@@ -64,7 +64,7 @@ Sóc estudiant de DAW amb coneixements d'HTML, CSS, Java, XML i MySQL. M'apassio
 ### SMX (Sistemes Microinformàtics i Xarxes) - Sa Palomera, Blanes
 *Cicle Mitjà (2021 - 2023)*
 
-- Beca Erasmus per fer pràctiques durant 1 mes a Beja, Portugal
+- Beca Erasmus per fer pràctiques durant un mes a Beja, Portugal
 
 ### ESO (Educació Secundària Obligatòria) - Institut Tordària, Tordera
 *Educació Obligatòria (2016 - 2020)*
@@ -143,7 +143,7 @@ La web es tradueix automàticament a l'anglès, castellà i portuguès.*
 - Carnet B (en procés)
 - Vehicle propi (moto)
 - Aficions i Interessos
-  - Practicar Hockey Patins
+  - Practicar Hoquei Patins
   - Aprendre Programació
 
 ---
