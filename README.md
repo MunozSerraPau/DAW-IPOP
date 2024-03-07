@@ -12,7 +12,7 @@ Hola, em dic Pau Muñoz Serra i soc estudiant de DAW amb coneixements d'HTML, CS
 ## Curriculum
 A continuació adjunto el meu currículum amb tota la informació necessària per conèixer el meu passat laboral i en quines feines he contribuït, a més d'informació addicional que serà d'ajuda per conèixer més.* 
 * [Curriculum Vitae Catala](https://github.com/XinLu85/DAW-IPOP/blob/main/Curriculum/CV-PauMu%C3%B1oz-Catala.pdf)
-* [Curriculum Vitae Castella](https://github.com/XinLu85/DAW-IPOP/blob/main/Curriculum/CV-PauMu%C3%B1oz-Castellano.pdf)
+* [Curriculum Vitae Castella](Curriculum/Curriculum Cast.md)
 * [Curriculum GitHub en Castellà](https://github.com/XinLu85/DAW-IPOP/blob/main/Curriculum/Curr%C3%ADculum%20Vitae%20Esp.md)
 * [Curriculum GitHub en Català](https://github.com/XinLu85/DAW-IPOP/blob/main/Curriculum/Curr%C3%ADculum%20Vitae%20Cat.md)
 
