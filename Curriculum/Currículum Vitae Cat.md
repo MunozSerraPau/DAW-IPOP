@@ -116,16 +116,16 @@ La web es tradueix automàticament a l'anglès, castellà i portuguès.*
 
 ## 📑 Certificacions
 
-- [Administració Bàsica de Sistemes Linux] - *Sa Palomera - Blanes, juny del 2022*
-- [Administració Bàsica de Sistemes Windows 10] - *Sa Palomera - Blanes, juny del 2022*
-- [Introducció a HTML i CSS] - *Sa Palomera - Blanes, juny del 2022*
-- [Elaboració avançada de Full de Càlcul amb Excel 2019] - *Sa Palomera - Blanes, juny del 2022*
-- [Elaboració avançada de Documents de Text amb Word 2019] - *Sa Palomera - Blanes, juny del 2022*
-- [Elaboració avançada de Base de Dades amb Access 2019] - *Sa Palomera - Blanes, juny del 2022*
-- [Elaboració de presentacions amb PowerPoint 2019] - *Sa Palomera - Blanes, juny del 2022*
-- [Gestió de correu i agenda amb OutLook 2019] *Sa Palomera - Blanes, juny del 2022*
-- [Introducció a les xarxes (CCNA Routing and Switching) Cisco] *Sa Palomera - Blanes, juny del 2022*
-- [Introducció a la reparació de mòbils] *Sa Palomera - Blanes, juny del 2022*
+- **Administració Bàsica de Sistemes Linux** - *Sa Palomera - Blanes, juny del 2022*
+- **Administració Bàsica de Sistemes Windows 10** - *Sa Palomera - Blanes, juny del 2022*
+- **Introducció a HTML i CSS** - *Sa Palomera - Blanes, juny del 2022*
+- **Elaboració avançada de Full de Càlcul amb Excel 2019** - *Sa Palomera - Blanes, juny del 2022*
+- **Elaboració avançada de Documents de Text amb Word 2019** - *Sa Palomera - Blanes, juny del 2022*
+- **Elaboració avançada de Base de Dades amb Access 2019** - *Sa Palomera - Blanes, juny del 2022*
+- **Elaboració de presentacions amb PowerPoint 2019** - *Sa Palomera - Blanes, juny del 2022*
+- **Gestió de correu i agenda amb OutLook 2019** - *Sa Palomera - Blanes, juny del 2022*
+- **Introducció a les xarxes (CCNA Routing and Switching) Cisco** - *Sa Palomera - Blanes, juny del 2022*
+- **Introducció a la reparació de mòbils** - *Sa Palomera - Blanes, juny del 2022*
 
 
 
