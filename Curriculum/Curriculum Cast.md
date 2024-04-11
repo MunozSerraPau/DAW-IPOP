@@ -9,7 +9,7 @@
 
 - **Correo Electrónico:** munozserrap@gmail.com
 - **LinkedIn:** [Mi Perfil de LinkedIn](https://www.linkedin.com/in/pau-muñoz-serra-1383a6194/)
-- **Sitio Web/Portafolio:** [Portafolio](https://munozserrap.wixsite.com/pmsporfoli)
+- **Sitio Web/Portafolio:** [Portafolio](https://github.com/MunozSerraPau/PORTFOLIO)
 
 
 ## 📖 Resumen
@@ -19,37 +19,37 @@ Soy estudiante de DAW con conocimientos de HTML, CSS, Java, XML y MySQL. Me apas
 
 ## 👷 Experiencia Laboral
 
-### Agente cívico, Ayuntamiento de Tordera - Tordera, Cataluña
-*01.07.2022 - 31.07.2022*
+### Entrenador de Hockey - Tordera, Cataluña
+*07.2018 - Actualmente*
 
-- Campaña de reciclaje para concienciar en la población y supervisar que la gente recicle.
-- Informar en la población con animales de compañía sobre todo el que tiene que tener en vigor temas vacunas e identificador del animal.
+- Planificar entrenos para niños de 3 a 12 años.
+- Orientarlos durante sus años en el Club.
 
 ### Camarero Bar Voramar - Blanes, Cataluña
 *01.07.2023 - 06.09.2023*
 
 - Camarero tanto de barra como de Sala.
-- Servicio a mesa
+- Servicio a mesa.
 
-### Entrenador de Hockey - Tordera, Cataluña
-*01.07.2022 - 31.07.2022*
+### Prácticas en un Residência Para Estudantes - Beja, Portugal
+*05.2022 - 06.2023*
 
-- Planificar entrenos por niños de 3 a 12 años.
-- Orientarlos durante sus años al Club.
+- Realizada con una Beca de Erasmus+ desde el Centro Sa Palomera en el curso de SMX.
+- Crear una página Web con WIX para una residencia de estudiantes.
 
 ### Practicas Grupo Actialia / VK Group Outsourcing - Palafolls, Cataluña
 *10.2022 - 02.2023*
 
 - Prácticas realizadas durante SMX desde el Centro Sa Palomera.
 - Crear/Modificar páginas Web.
-- Crear perfiles de redes sociales para las empresas.
-- Mantenimiento de páginas Web y mejorar la posición al buscarla.
+- Crear perfiles para redes sociales para las empresas.
+- Mantenimiento de páginas Web y mejorar el SEO de la web.
 
-### Practicas Portugal - Beja, Portugal
-*05.2022 - 06.2023*
+### Agente cívico, Ayuntamiento de Tordera - Tordera, Cataluña
+*01.07.2022 - 31.07.2022*
 
-- Realizadas con una Beca de Erasmus+ desde el centro Sa Palomera
-- Crear página Web con WIX por una residencia de estudiantes
+- Campaña de reciclaje para concienciar a la población y supervisar que la gente recicle correctamente.
+- Informar a la población con animales de compañía sobre lo que tiene que tener en vigor, tanto de las vacunas y el identificador del animal.
 
 
 ## 📚 Educación
@@ -57,10 +57,11 @@ Soy estudiante de DAW con conocimientos de HTML, CSS, Java, XML y MySQL. Me apas
 ### DAW (Desarrollo de Aplicaciones Web) - Sa Palomera, Blanes
 *Ciclo Superior* - *2023 - Actual*
 
+
 ### SMX (Sistemas Microinformáticos y Redes) - Sa Palomera, Blanes
 *Ciclo Medio* - *2021 - 2023*
-
-- Beca Erasmus para hacer prácticas durante 1 mes en Beja, Portugal
+- Practiques a la empresa grupo Actialia / VK Group Outsoucing
+- Practicas a una residencia para estudiantes (con una beca a Portugal).
 
 ### ESO (Educación Secundaria Obligatoria) - Instituto Tordària, Tordera
 *2016 - 2020*
@@ -91,19 +92,25 @@ Soy estudiante de DAW con conocimientos de HTML, CSS, Java, XML y MySQL. Me apas
 
 ## 📂 Proyectos Destacados
 
-### [WEB - EMPRESA](https://munozserrap.wixsite.com/pamuse-empresa)
-*Página Web que resume EiE de 1.º año de SMX, con resumen semanal de la clase y con apuntes de toda la teoría.
-Información extra con actividades y videos resumidos sobre el temario.
-Archivo con la creación de una empresa como trabajo final.
-Creada con Wix.*
+### [Repositorio GitHub - Proyectos Varios](https://github.com/MunozSerraPau/PORTFOLIO/tree/main/Proyectos)
+*Repositorio de GitHub que presento algunos de mis proyectos de programación (java, C#, sql...) en diferentes lenguajes.
+Con la finalidad de poder mostrar mis habilidades, con información de cada uno de los proyectos y algunos apuntes.*
 
-### [VIDEOJUEGO - Juego en 2D con Unity](https://github.com/XinLu85/DAW-IPOP/tree/main/Curriculum/VideoJoc)
-*Creación de un juego en 2D al estilo Mario Bros con un boss final.
-Creado con Unity (C#) y con animaciones a los personajes*
+### [VIDEOJUEGO - Juego en 2D con Unity](https://github.com/MunozSerraPau/PORTFOLIO/tree/main/Proyectos/UNITY)
+*Creación de un juego en 2D al estilo Mario Bros con un boss final. 
+Creado con Unity (C#) y con animaciones a los personajes.*
+
+### [WEB - EMPRESA](https://munozserrap.wixsite.com/pamuse-empresa)
+*Página Web que resume la asignatura de Empresa e Iniciativa Emprendedora de 1.º año de SMX, con resumen semanal de la clase y con apuntes de toda la teoría.
+Información extra con actividades y videos resumidos sobre el temario. Archivo con la creación de una empresa como trabajo final.*
 
 ### [WEB - RESIDENCIA De ESTUDIANTES](https://munozserrap.wixsite.com/residancia-beja)
-*Página Web creada para una residencia de estudiantes en la cual se pueden poner en contacto para poder reservar habitaciones durante su aposento de Erasmus.
+*Página Web creada para una residencia de estudiantes en la cual se pueden poner en contacto para poder reservar habitaciones durante su aposento de Erasmus. 
 La web es traducir automáticamente al inglés, Castilla y Portugués.*
+
+### [WEB - PORTAFOLIO](https://munozserrap.wixsite.com/pmsporfoli)
+*Portafolio en formato Web en Inglés con información relacionada conmigo, desde el currículum y certificados hasta actividades hechas durante el curso. 
+Sitio web para hacer una presentación de quién soy.*
 
 
 ## 📑 Certificaciones
@@ -129,14 +136,13 @@ La web es traducir automáticamente al inglés, Castilla y Portugués.*
 
 ## ℹ️ Más Información
 
-- Carnet A1
-- Carnet B (en proceso)
+- Carné A1
+- Carné B (en proceso)
 - Vehículo propio (moto)
-- Aficiones e Intereses
-  - Practicar Hockey Patines
-  - Aprender Programación
+- Aficiones e Intereses:
+    - Practicar Hockey Patines
+    - Aprender Programación
 
 ---
 
-¡Gracias por visitar mi perfil! Estoy abierto a nuevas oportunidades.
-
+¡Gracias por visitar mi perfil! 
