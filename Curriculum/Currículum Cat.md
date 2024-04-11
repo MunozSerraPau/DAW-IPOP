@@ -19,7 +19,7 @@ Soc estudiant de DAW amb coneixements d'HTML, CSS, Java, XML i MySQL. M'apassion
 
 ## 👷 Experiència Laboral
 
-### Entrenador de Hoquei - Tordera, Catalunya
+### Entrenador d'Hoquei - Tordera, Catalunya
 *07.2018 - Actualment*
 
 - Planificar entrenaments per a nens de 3 a 12 anys.
