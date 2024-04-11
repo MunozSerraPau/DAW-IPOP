@@ -5,55 +5,51 @@
 </p>
 
 
-
 ## 📞 Información de Contacto
 
 - **Correo Electrónico:** munozserrap@gmail.com
 - **LinkedIn:** [Mi Perfil de LinkedIn](https://www.linkedin.com/in/pau-muñoz-serra-1383a6194/)
-- **Sitio Web/Portafolio:** [Portafolio](https://munozserrap.wixsite.com/pmsporfoli)
-
+- **Sitio Web/Portafolio:** [Portafolio](https://github.com/MunozSerraPau/PORTFOLIO)
 
 
 ## 📖 Resum
 
-Soc estudiant de DAW amb coneixements d'HTML, CSS, Java, XML, JSON i MySQL. M'apassiona la programació web i busco una oportunitat per aprendre i millorar les meves habilitats. Tinc la capacitat de treballar en equip, resoldre problemes i adaptar-me a diferents entorns.
-
+Soc estudiant de DAW amb coneixements d'HTML, CSS, Java, XML i MySQL. M'apassiona la programació web i busco una oportunitat per aprendre i millorar les meves habilitats. Tinc capacitat per treballar en equip, resoldre problemes i adaptar-me a diferents entorns. 
 
 
 ## 👷 Experiència Laboral
 
-### Agent cívic, Ajuntament de Tordera - Tordera, Catalunya
-*01.07.2022 - 31.07.2022*
+### Entrenador de Hoquei - Tordera, Catalunya
+*07.2018 - Actualment*
 
-- Campanya de reciclatge per conscienciar la població i supervisar que la gent recicli.
-- Informar la població amb animals de companyia sobretot el que ha de tenir en vigor com vacunes i identificador de l'animal.
+- Planificar entrenaments per a nens de 3 a 12 anys.
+- Orientar-los durant els seus anys al Club.
 
 ### Cambrer Bar Voramar - Blanes, Catalunya
 *01.07.2023 - 06.09.2023*
 
 - Cambrer tant de barra com de Sala.
-- Servei a taula
+- Servei a taula.
 
-### Entrenador de Hoquei - Tordera, Catalunya
-*01.07.2022 - 31.07.2022*
-
-- Planificar entrenaments per a nens de 3 a 12 anys.
-- Orientar-los durant els seus anys al Club.
-
-### Pràctiques Grupo Actialia / VK Group Outsourcing - Palafolls, Catalunya
-*1.10.2022 - 28.02.2023*
-
-- Pràctiques realitzades durant SMX des del Centre Sa Palomera.
-- Crear/Modificar pàgines web.
-- Crear perfils de xarxes socials per a les empreses.
-- Manteniment de pàgines web i millorar la posició en la cerca.
-
-### Pràctiques Portugal - Beja, Portugal
+### Pràctica Residência Para Estudantes - Beja, Portugal
 *05.2022 - 06.2023*
 
-- Realitzades amb una Beca d'Erasmus+ des del centre Sa Palomera
-- Crear pàgina web amb WIX per a una residència d'estudiants
+- Realitzada amb una Beca d'Erasmus+ des del centre Sa Palomera
+- Crear d'una pàgina Web amb WIX per una residència d'estudiants.
 
+### Pràctiques Grupo Actialia / VK Group Outsourcing - Palafolls, Catalunya
+*10.2022 - 02.2023*
+
+- Pràctiques realitzades durant SMX des del Centre Sa Palomera.
+- Crear/Modificar pàgines Web.
+- Crear perfils de xarxes socials per empreses.
+- Manteniment de pàgines Web i millorar el SEO de la web.
+
+### Agent cívic, Ajuntament de Tordera - Tordera, Catalunya
+*01.07.2022 - 31.07.2022*
+
+- Campanya de reciclatge per conscienciar a la població i supervisar que la gent recicli.
+- Informar a la població que té animals de companyia sobre el que ha de tenir en vigor en temes de vacunes i de l'identificador de l'animal.
 
 
 ## 📚 Educació
@@ -64,11 +60,11 @@ Soc estudiant de DAW amb coneixements d'HTML, CSS, Java, XML, JSON i MySQL. M'ap
 ### SMX (Sistemes Microinformàtics i Xarxes) - Sa Palomera, Blanes
 *Cicle Mitjà (2021 - 2023)*
 
-- Beca Erasmus per fer pràctiques durant un mes a Beja, Portugal
+- Practiques a l’empres Actialia / VK Group Outsoucing
+- Pràctiques a una residència per estudiants (amb una beca a Portugal)
 
 ### ESO (Educació Secundària Obligatòria) - Institut Tordària, Tordera
 *Educació Obligatòria (2016 - 2020)*
-
 
 
 ## 🤔 Competències Personals
@@ -82,36 +78,40 @@ Soc estudiant de DAW amb coneixements d'HTML, CSS, Java, XML, JSON i MySQL. M'ap
   - Autonomia
 
 
-
 ## 🖥️ Habilitats Tècniques
 
 - Llista d'habilitats tècniques clau:
-  - Virtualització de Màquines Virtuals (Linux, Linux Server, Windows, Windows Server, macOS Catalina, Fedora...)
+  - Virtualització de Màquines Virtuals (Linux, Linux Server, Windows i Windows Server)
   - Microsoft Office (Word, Excel, PowerPoint, Access, Outlook)
   - HTML & CSS
-  - Java (Programació estructurada, Orientat a Objectes, Disseny Modular...)
-  - Consulta i modificacions a base de dades amb MySQL.
-  - Ús de llenguatge de marques (XML, DTD, JSON...)
+  - Java (Programació estructurada i Orientat a Objectes, Disseny Modular)
+  - Consultés i modificacions a Base de Dades amb MySQL.
+  - Llenguatges de Marques (XML, DTD, JSON...)
   - Conceptes bàsics de C#
-
 
 
 ## 📂 Projectes Destacats
 
-### [WEB - EMPRESA](https://munozserrap.wixsite.com/pamuse-empresa)
-*Pàgina web que resumeix EiE de 1r any de SMX, amb resum setmanal de la classe i amb apunts de tota la teoria.
-Informació extra amb activitats i vídeos resumits sobre el temari.
-Arxiu amb la creació d'una empresa com a treball final.
-Creat amb Wix.*
+### [Repositori GitHub - Projectes Varis](https://github.com/MunozSerraPau/PORTFOLIO/tree/main/Proyectos)
+*Repositori de GitHub que presento alguns dels meus projectes de programació (java, C#, sql...) en diferents llenguatges.
+Amb la finalitat de poder mostrar les meves habilitats, amb informació de cadascun dels projectes i alguns apunts*
 
 ### [VIDEOJOC - Joc en 2D amb Unity](https://github.com/XinLu85/DAW-IPOP/tree/main/Curriculum/VideoJoc)
-*Creació d'un joc en 2D a l'estil Mario Bros amb un boss final.
-Creat amb Unity (C#) i amb animacions als personatges.*
+*Creació d’un joc en 2D a l’estil.
+Mario Bros amb un boss final. Creat amb Unity (C#) i amb animacions als personatges.*
+
+### [WEB - EMPRESA](https://munozserrap.wixsite.com/pamuse-empresa)
+*Pàgina Web que resumeix l’assignatura de Empresa i Emprenedoria de 1r any d’SMX, amb resum setmanal de la classe i amb apunts de tota la teoria.
+Informació extra amb activitats i vídeos resumits sobre el temari. 
+Arxiu amb la creació d'una empresa com a treball final.*
 
 ### [WEB - RESIDÈNCIA D'ESTUDIANTS](https://munozserrap.wixsite.com/residancia-beja)
-*Pàgina web creada per a una residència d'estudiants en la qual es poden posar en contacte per poder reservar habitacions durant el seu allotjament d'Erasmus.
-La web es tradueix automàticament a l'anglès, castellà i portuguès.*
+*Pàgina Web creada per a una residència d'estudiants en la qual es poden posar en contacte per poder reservar habitacions durant la seva estança d'Erasmus.
+La web és traduir automàticament a l'anglès, Castella i Portuguès.*
 
+### [WEB - PORTAFOLI](https://munozserrap.wixsite.com/pmsporfoli)
+*Portafolis en format Web en Anglès amb informació relacionada amb mi, des del currículum i certificats fins activitats fetes durant el curs. 
+Lloc Web per fer una presentació de qui soc.*
 
 
 ## 📑 Certificacions
@@ -128,7 +128,6 @@ La web es tradueix automàticament a l'anglès, castellà i portuguès.*
 - **Introducció a la reparació de mòbils** - *Sa Palomera - Blanes, juny del 2022*
 
 
-
 ## 🌐 Idiomes
 
 - Català - *Nivell Natiu*
@@ -136,17 +135,15 @@ La web es tradueix automàticament a l'anglès, castellà i portuguès.*
 - Anglès - *Nivell Bàsic*
 
 
-
 ## ℹ️ Més Informació
 
 - Carnet A1
 - Carnet B (en procés)
 - Vehicle propi (moto)
-- Aficions i Interessos
+- Aficions i Interessos:
   - Practicar Hoquei Patins
   - Aprendre Programació
 
 ---
 
-Gràcies per visitar el meu perfil! Estic obert a noves oportunitats.
-
+Gràcies per visitar el meu perfil!
